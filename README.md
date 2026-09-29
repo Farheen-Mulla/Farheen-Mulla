@@ -9,7 +9,7 @@ I build full-stack web apps and I'm now moving into AI, where I'm exploring how 
 - 💻 Building full-stack apps with the **MERN stack**
 - 🤖 Learning **AI, Machine Learning & Data Science**, including RAG, embeddings and semantic search
 - 🧩 Sharpening problem-solving with **Data Structures & Algorithms**
-- 🌱 Looking for opportunities in **software / AI engineering**
+- 🌱 Looking for opportunities in **software development/ AI engineering**
 
 ## 🛠️ Tech Stack
 **Languages:** Java · JavaScript · Python · C
